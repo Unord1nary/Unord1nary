@@ -1,4 +1,5 @@
 <div align= "center">
+<!-- 갑자기 생각나서 꾸미는 중 -->
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😊 <br></h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 열심히 공부하고 있는 청년입니다 ! </div><br>
