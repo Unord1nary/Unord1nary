@@ -1,5 +1,9 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:5bbad2,100:ffffff&height=120&text=Hello,%20World%20:%20)&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😊 </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 열심히 공부하고 있는 청년입니다 ! </div> 
+    </div>
+    <div style="text-align: left;">
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -15,4 +19,8 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
+
+
+
+    
     
