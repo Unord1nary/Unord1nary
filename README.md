@@ -1,5 +1,5 @@
 <div align= "center">
-<!-- 갑자기 생각나서 꾸미는 중 -->
+<!-- 갑자기 생각나서 꾸미는 중이얌 -->
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 😊 <br></h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 오늘은 어제보다 더 나아가는 중입니다  ☁️</div><br>
