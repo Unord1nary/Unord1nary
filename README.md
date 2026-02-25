@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
