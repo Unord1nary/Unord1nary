@@ -32,16 +32,14 @@
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
-</div>
 
 ---
 
 <h2>🧑‍💻 Contact</h2>
 <div align="center">
-<a href="https://velog.io/@xxxhyxxk__">
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
+<a href="https://haxxru.vercel.app">
+<img src="https://img.shields.io/badge/Blog-111110?style=for-the-badge&logo=ghost&logoColor=white"/>
 </a>
-
 <a href="https://www.instagram.com/nn1nhyx_k/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
